@@ -17,3 +17,7 @@ parar o apache
 
 php libapache2-mod-php
 instalar lib do apache
+
+
+
+para configurar o git global user and email é fora do root
